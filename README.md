@@ -47,3 +47,7 @@ Data-set being used in this project can be found on kaggle or you can use this [
 ### Step 3
  - Create a new pull request <br />
 
+## License
+
+[![License](https://img.shields.io/github/license/arnavgarg123/Bangladesh-Rainfall.svg?color=ye)](http://badges.mit-license.org)<br />
+This project is licensed under the MIT License - see the [LICENSE.md]() file for details
