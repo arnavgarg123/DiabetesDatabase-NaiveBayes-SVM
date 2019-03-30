@@ -50,4 +50,4 @@ Data-set being used in this project can be found on kaggle or you can use this [
 ## License
 
 [![License](https://img.shields.io/github/license/arnavgarg123/Bangladesh-Rainfall.svg?color=ye)](http://badges.mit-license.org)<br />
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/arnavgarg123/DiabetesDatabase-NaiveBayes-SVM/blob/master/LICENSE.md) file for details
